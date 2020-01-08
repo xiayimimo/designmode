@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<config>
+	<!--扩展抽象类 -->
+	<className>constructiontype.l8bridgepattern.ExcelConversion</className>
+	<!--具体实现类 -->
+	<className>constructiontype.l8bridgepattern.SqlserverDataSource</className>
+</config>

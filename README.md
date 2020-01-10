@@ -1,14 +1,14 @@
 # designmode
 类型       模式名称         学习难度   使用频率 
 创建型模式 Creational Pattern 
-单例模式   Singleton Pattern ★☆☆☆☆ ★★★★☆ 
-创建型模式 Creational 简单工厂模式 Simple Factory Pattern ★★☆☆☆ ★★★☆☆ 
-创建型模式 Creational Pattern 工厂方法模式 Factory Method Pattern ★★☆☆☆ ★★★★★ 
-创建型模式 Creational Pattern 抽象工厂模式 Abstract Factory Pattern ★★★★☆ ★★★★★ 
-创建型模式 Creational Pattern 原型模式 Prototype Pattern ★★★☆☆ ★★★☆☆ 
-创建型模式 Creational Pattern 建造者模式 Builder Pattern ★★★★☆ ★★☆☆☆ 
-结构型模式 Structural Pattern 适配器模式 Adapter Pattern ★★☆☆☆ ★★★★☆ 
-结构型模式 Structural Pattern 桥接模式 Bridge Pattern ★★★☆☆ ★★★☆☆ 
+单例模式   Singleton Pattern ★☆☆☆☆ ★★★★☆  
+创建型模式 Creational 简单工厂模式 Simple Factory Pattern ★★☆☆☆ ★★★☆☆   
+创建型模式 Creational Pattern 工厂方法模式 Factory Method Pattern ★★☆☆☆ ★★★★★   
+创建型模式 Creational Pattern 抽象工厂模式 Abstract Factory Pattern ★★★★☆ ★★★★★   
+创建型模式 Creational Pattern 原型模式 Prototype Pattern ★★★☆☆ ★★★☆☆   
+创建型模式 Creational Pattern 建造者模式 Builder Pattern ★★★★☆ ★★☆☆☆   
+结构型模式 Structural Pattern 适配器模式 Adapter Pattern ★★☆☆☆ ★★★★☆   
+结构型模式 Structural Pattern 桥接模式 Bridge Pattern ★★★☆☆ ★★★☆☆   
 结构型模式 Structural Pattern 组合模式 Composite Pattern ★★★☆☆ ★★★★☆ 
 结构型模式 Structural Pattern 装饰模式 Decorator Pattern ★★★☆☆ ★★★☆☆ 
 结构型模式 Structural Pattern 外观模式 Façade Pattern ★☆☆☆☆ ★★★★★ 

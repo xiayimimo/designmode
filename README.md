@@ -1,4 +1,4 @@
-# designmode
+# 二十四种设计模式
 类型         模式名称           学习难度      使用频率   
 创建型模式 Creational Pattern 单例模式   Singleton Pattern ★☆☆☆☆ ★★★★☆    
 创建型模式 Creational 简单工厂模式 Simple Factory Pattern ★★☆☆☆ ★★★☆☆     
